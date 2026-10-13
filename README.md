@@ -10,13 +10,12 @@ Requirements:
 ### Deksriptif
 
 1. Mulai
-2. Masukkan nominal Cash
-3. Masukkan nominal Tagihan
+2. Masukkan nominal Tagihan
+3. Masukkan nominal Cash
 4. Jika nominal Tagihan lebih besar dari nominal Cash, masukkan kembali nominal Cash
 5. Jika nominal Cash sama besarnya dengan Tagihan, tampilkan "Tidak perlu kembalian"
-6. Jika nominal Cash lebih besar dari Tagihan, lakukan pengurangan antara nominal Cash dengan Tagihan
-7. Tampilkan hasil pengurangan tersebut
-8. Selesai
+6. Jika nominal Cash lebih besar dari Tagihan, tampilan pengurangan antara nominal Cash dengan Tagihan
+7. Selesai
 
 ### Flowchart
 
