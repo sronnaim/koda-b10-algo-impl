@@ -1,0 +1,15 @@
+DECLARE Cash : INTEGER
+DECLARE Tagihan : INTEGER
+
+INPUT Tagihan
+INPUT Cash
+
+WHILE Cash < Tagihan
+    INPUT Cash
+ENDWHILE
+
+IF Cash = Tagihan THEN
+    OUTPUT "Tidak perlu kembalian"
+ELSE
+    OUTPUT Cash - Tagihan
+ENDIF
