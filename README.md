@@ -14,7 +14,7 @@ Requirements:
 3. Masukkan nominal Cash
 4. Jika nominal Tagihan lebih besar dari nominal Cash, masukkan kembali nominal Cash
 5. Jika nominal Cash sama besarnya dengan Tagihan, tampilkan "Tidak perlu kembalian"
-6. Jika nominal Cash lebih besar dari Tagihan, tampilan pengurangan antara nominal Cash dengan Tagihan
+6. Jika nominal Cash lebih besar dari Tagihan, tampilkan pengurangan antara nominal Cash dengan Tagihan
 7. Selesai
 
 ### Flowchart
