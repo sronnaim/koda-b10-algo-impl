@@ -1,0 +1,12 @@
+DECLARE Derajat : REAL
+DECLARE Kelvin : REAL
+DECLARE Fahrenheit : REAL
+DECLARE Reamur : REAL
+
+INPUT Derajat
+
+Kelvin <- Derajat + 273.5
+Fahrenheit <- Derajat * (9/5) + 32
+Reamur <- Derajat * (4/5)
+
+OUTPUT "Kelvin: ", Kelvin, "Fahrenheit: ", Fahrenheit, "Reamur: ", Reamur
